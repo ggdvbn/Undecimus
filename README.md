@@ -1,4 +1,4 @@
-# unc0ver
+# uncover ks
 ### The most advanced jailbreak tool
 ![unc0ver logo](https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
 
